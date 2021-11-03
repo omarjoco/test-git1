@@ -5,4 +5,4 @@ como nuestra introduccion con esta herramienta
 
 
 ##Features
-*lista de tareas diarias
+* lista de tareas diarias
